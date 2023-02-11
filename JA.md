@@ -1,5 +1,6 @@
 [english](README.md)
 # otoka
+<img src="Untitled.png"><br /><br />
 ## 1. ガイド
 otoka は、特定の「開発元」をなくすための Python で書かれたソフトウェアです。  
 プロジェクトを支援するには、現在otokaには「開発元」がある状況なので、さまざまな方法でotokaを実装するか、自分のWebサイトでotokaを紹介してください。  
