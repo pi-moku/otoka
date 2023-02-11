@@ -34,3 +34,22 @@ python3 otoka.py program.py
 ```
 Then the otoka program reads load.txt, reads the contents of the url and path, and writes them to the specified file.  
 (In the example, the contents of https://pi-moku.github.io are written to "program.py".)  
+## 2 Error
+If you run it and get an error, first check load.txt.  
+Are you writing with line breaks?  
+Does the url or path you are writing exist?  
+(Full path is recommended)  
+If it exists after checking, let's check the execution method next.  
+Are you specifying arguments?  
+If it is still specified, it may be an otoka bug. If it's a bug, please file an issue on this repository.  
+## 3.otoka Five philosophies
+1,be simple  
+2,long live freedom  
+3,authoritarianism is bad  
+4,Long live the dispersion  
+5,All Programmers Should Respect Users.  
+## 4.NOTE
+This was translated from Japanese to English using a translation service.  
+So I think there are some grammar mistakes.  
+[Click here for Japanese version](JA.md)  
+[日本語版はこちら](JA.md)  
