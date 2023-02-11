@@ -48,7 +48,9 @@ If it is still specified, it may be an otoka bug. If it's a bug, please file an 
 3,authoritarianism is bad  
 4,Long live the dispersion  
 5,All Programmers Should Respect Users.  
-## 4.NOTE
+## 4. LICENSE
+GNU General Public License v3.0  
+## 5.NOTE
 This was translated from Japanese to English using a translation service.  
 So I think there are some grammar mistakes.  
 [Click here for Japanese version](JA.md)  
