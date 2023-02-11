@@ -38,5 +38,7 @@ python3 otoka.py program.py
 3.権威主義は悪である  
 4.分散万歳  
 5,プログラマーはユーザーを尊重する必要がある  
+## 4. ライセンス
+GNU General Public License v3.0ライセンスです。  
 ## 4.注意
 [english](README.md)
