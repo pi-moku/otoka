@@ -10,6 +10,7 @@ Therefore, please feel free to release your otoka code (according to the GPL lic
 You can also introduce it on your home page, etc., and indicate what to write in load.txt.  
 ## 
 --->
+<img src="Untitled.png"><br /><br />
 ## 1. Guide
 otoka is a software written in Python that can eliminate a specific "developer".  　
 In order to support the project, there is currently a "developer" in otoka, so please implement otoka in various ways or introduce otoka on your own website.  
